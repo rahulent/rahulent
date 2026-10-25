@@ -1,155 +1,129 @@
 <div align="center">
 
-# Hi there, I'm Rahul Singh 👋
-### ⚡ Senior Cloud & DevSecOps Architect ⚡
-**5+ Years of Production Experience across Azure & AWS Enterprise Ecosystems**
+# ⚡ Rahul Singh ⚡
+### **Lead Cloud & DevSecOps Architect**
+**10+ Years in Enterprise IT • 5+ Years in Cloud, DevOps & Security Architecture**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=700&lines=Architecting+Zero-Trust+Cloud+Platforms;100%2B+Enterprise+Workloads+Migrated+to+Cloud;Shift-Left+DevSecOps+%7C+Policy-as-Code+Pioneer;Production+Terraform+Landing+Zones+(Azure+CAF);FinOps+Strategist+%7C+28%25%2B+Cloud+Cost+Optimization)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=750&lines=10%2B+Years+Enterprise+IT+Veteran+%7C+5%2B+Years+Cloud+%26+DevSecOps;Architecting+Zero-Trust+Landing+Zones+(Azure+CAF+%2B+AWS);Migrated+100%2B+Production+Workloads+with+Zero+Downtime;Production-Grade+IaC%2C+Terraform+Modules+%26+FinOps;Securing+Cloud+Ecosystems+with+Shift-Left+Automation)](https://git.io/typing-svg)
 
 <br/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/rahulent" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rahulsingh.clouddevops@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/rahulent">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-</div>
-
----
-
-## 🚀 Quick Snapshot
-
-```
-┌───────────────────────────┬────────────────────────────────────────────────────────┐
-│ Metric / Domain           │ Enterprise Track Record                                │
-├───────────────────────────┼────────────────────────────────────────────────────────┤
-│ 🏆 Experience             │ 5+ Years in Enterprise Cloud & DevSecOps Architecture  │
-│ ☁️ Core Ecosystems        │ Microsoft Azure (Primary) & Amazon Web Services (AWS)  │
-│ 🏢 Workload Migrations    │ 100+ Enterprise Apps Migrated (Dev, UAT, Multi-AZ Prod)│
-│ 🛡️ Security Posture       │ Zero-Trust, CIS Benchmark, Shift-Left Policy-as-Code  │
-│ 💰 FinOps Impact          │ 28%+ Annual Cost Reduction via Waste Purging & Rightsizing│
-│ 📈 Availability SLA       │ Engineered Active-Active Multi-Zone Resiliency (99.99%)│
-└───────────────────────────┴────────────────────────────────────────────────────────┘
-```
-
----
-
-## 👨‍💻 Executive Summary
-
-I am a **Senior Cloud & DevSecOps Architect** specializing in architecting resilient, automated, and mathematically governed cloud infrastructure. I bridge the gap between **business objectives, cloud architecture, and ironclad security**.
-
-* 🌐 **Landing Zone Architecture:** Implementing enterprise **Microsoft Cloud Adoption Framework (CAF)** hierarchies with sovereign subscription boundaries (`Platform`, `Corp`, `Online`, `Sandbox`).
-* 🔒 **Zero-Trust Networking:** Engineering hub-and-spoke networks with centralized firewall inspection, forced tunneling (`0.0.0.0/0`), and private PaaS connectivity via **Azure Private Link**.
-* ⚙️ **Automated DevSecOps:** Embedding automated vulnerability detection, secret hunting, and cost governance directly into CI/CD pipelines before any code hits production.
-* 📦 **Cloud Migration & Modernization:** Spearheading end-to-end cloud adoption from discovery and TCO assessment to cutover and hypercare war room operations.
-
----
-
-## 🛠️ Tech Stack & Arsenal
-
-<div align="center">
-
-<!-- Visual Modern Skill Icons -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=azure,aws,terraform,kubernetes,docker,linux,githubactions,gitlab,ansible,bash,powershell,py,prometheus,grafana&theme=dark" alt="Rahul's Tech Stack" />
-</a>
+[![IT Experience](https://img.shields.io/badge/Enterprise_IT-10%2B_Years_Experience-blue?style=for-the-badge&logo=codewars&logoColor=white)](#)
+[![Cloud Experience](https://img.shields.io/badge/Cloud_%26_DevOps-5%2B_Years_Specialist-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
+[![Workloads Migrated](https://img.shields.io/badge/Cloud_Migration-100%2B_Workloads-success?style=for-the-badge&logo=azure-pipelines&logoColor=white)](#)
+[![Security Standard](https://img.shields.io/badge/Security-Zero--Trust_%7C_CIS-red?style=for-the-badge&logo=shield&logoColor=white)](#)
+[![FinOps Impact](https://img.shields.io/badge/FinOps-28%25%2B_Cost_Saved-brightgreen?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
 
 <br/><br/>
 
-| Domain | Core Tooling & Technologies |
-| :--- | :--- |
-| **Cloud Platforms** | **Microsoft Azure** (Landing Zones, Entra ID, AKS, Virtual Networks, Key Vault) • **AWS** (EC2, S3, IAM, VPC, EKS) |
-| **Infrastructure as Code** | **Terraform** (Reusable Modules, State Locking) • **Terragrunt** • **Azure Bicep** • **Ansible** |
-| **Containers & Orchestration** | **Kubernetes (AKS / EKS)** • **Docker** • **Helm** • **ArgoCD (GitOps)** • **KEDA** |
-| **DevSecOps & Shift-Left** | **GitLeaks** • **Trivy** • **Checkov** • **tfsec** • **SonarQube** • **Microsoft Defender for Cloud** |
-| **CI / CD Automation** | **Azure DevOps Pipelines** (YAML Templates, Multi-Stage) • **GitHub Actions** • **GitLab CI** |
-| **FinOps & Cloud Economics** | **Infracost** • **Azure Cost Management** • **AWS Cost Explorer** • **Savings Plans & RIs** |
-| **Observability & Monitoring** | **Azure Monitor** • **Log Analytics (DCR)** • **Prometheus** • **Grafana** • **Alert Action Groups** |
-| **Scripting & Automation** | **Bash** • **PowerShell** • **Python** • **YAML / JSON** |
+<a href="https://linkedin.com/in/rahulent" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:rahulsingh.clouddevops@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/rahulent">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
 ---
 
-## 🔄 End-to-End DevSecOps Delivery Architecture
+## 👨‍💻 The 10+ Year IT Journey to Cloud & DevSecOps
 
-Every infrastructure change and application commit passes through a rigorous shift-left automated pipeline:
+With over **10+ years of deep enterprise IT experience**—evolving from core infrastructure, networking, and datacenter operations into **5+ years of cutting-edge Cloud Architecture and DevSecOps**—I bring a battle-tested understanding of both traditional infrastructure and modern autonomous cloud platforms.
+
+I specialize in designing, securing, and scaling mission-critical workloads across **Microsoft Azure and AWS**, backed by mathematically audited reliability and automated governance:
+
+* 🏢 **100+ Enterprise Workload Migrations:** Led full lifecycle datacenter-to-cloud cutovers across Dev, UAT, and Multi-Zone Production tiers with zero data loss.
+* 🌐 **Enterprise Landing Zones (CAF):** Built enterprise-grade Azure Cloud Adoption Framework (CAF) hierarchies with sovereign subscription separation, Management Group policies, and CIS benchmarks.
+* 🛡️ **Zero-Trust & Shift-Left DevSecOps:** Embedded automated secret scanning, IaC vulnerability gates, and Policy-as-Code directly into developer pull requests.
+* 🔌 **Zero-Trust Hub-and-Spoke Networking:** Designed hybrid connectivity with ExpressRoute, Azure Firewall Premium with TLS inspection, UDR forced tunneling, and 100% Private Endpoints.
+* 💰 **FinOps & Cloud Economics:** Slashed enterprise cloud bills by **28%+** through rightsizing, automated non-prod lifecycle management, and reserved capacity planning.
+
+---
+
+## 🛠️ The Tech Arsenal
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=azure,aws,terraform,kubernetes,docker,linux,githubactions,gitlab,ansible,bash,powershell,py,prometheus,grafana&theme=dark" alt="Rahul's Tech Arsenal" />
+</a>
+
+</div>
+
+<br/>
+
+### ☁️ Cloud & Infrastructure as Code
+* **Cloud Platforms:** Microsoft Azure (Primary), Amazon Web Services (AWS), Hybrid Cloud
+* **IaC & Automation:** Terraform (Modular Architecture, State Locking, OIDC), Terragrunt, Azure Bicep, ARM Templates, Ansible
+* **Containerization & Orchestration:** Kubernetes (AKS / EKS), Docker, Helm, ArgoCD (GitOps), KEDA
+
+### 🛡️ DevSecOps & Security Engineering
+* **Shift-Left Security:** GitLeaks, Checkov, Trivy, tfsec, SonarQube, Snyk
+* **Identity & Governance:** Microsoft Entra ID, Privileged Identity Management (PIM / JIT Access), Azure Policy, RBAC
+* **Cloud Defense:** Microsoft Defender for Cloud, Azure Firewall Premium, NSGs/ASGs, Customer-Managed Keys (CMK)
+
+### 🚀 CI/CD, Observability & FinOps
+* **CI/CD Pipelines:** Azure DevOps Pipelines (Multi-stage YAML), GitHub Actions, GitLab CI, Jenkins
+* **Monitoring & Observability:** Azure Monitor, Log Analytics (DCR Filtering), Prometheus, Grafana, Alert Action Groups
+* **FinOps Tooling:** Infracost (PR Cost Gates), Azure Cost Management, AWS Cost Explorer, Savings Plans & RIs
+* **Scripting & Tooling:** Python, Bash, PowerShell, Git, Linux / Unix Internals
+
+---
+
+## 🔄 Automated Shift-Left DevSecOps Pipeline
+
+Every commit and infrastructure Pull Request is automatically vetted for security, compliance, cost, and stability before reaching production:
 
 ```mermaid
 flowchart LR
-    A["👨‍💻 Git Commit & PR"] --> B["🔍 Lint & Format<br/>(tflint / fmt)"]
-    B --> C["🔐 Secret Scan<br/>(GitLeaks)"]
-    C --> D["🛡️ IaC Security<br/>(Checkov / Trivy)"]
-    D --> E["💰 FinOps Gate<br/>(Infracost)"]
-    E --> F["👥 Senior Approval<br/>(2+ Reviewers)"]
+    A["💻 Git Commit & PR"] --> B["🔍 Linting & Syntax<br/>(tflint / fmt)"]
+    B --> C["🔐 Secret Detection<br/>(GitLeaks)"]
+    C --> D["🛡️ IaC Security Gates<br/>(Checkov / Trivy)"]
+    D --> E["💰 FinOps Cost Check<br/>(Infracost)"]
+    E --> F["👥 Senior Approvals<br/>(2+ Reviewers)"]
     F --> G["🚀 Terraform Apply<br/>(Blob Lease Lock)"]
-    G --> H["📊 Nightly Drift Check<br/>& Continuous Telemetry"]
+    G --> H["📊 Nightly Drift CI<br/>& Azure Telemetry"]
 
-    classDef stage fill:#0d1117,stroke:#38bdf8,stroke-width:2px,color:#e2e8f0;
+    classDef stage fill:#0d1117,stroke:#00F0FF,stroke-width:2px,color:#ffffff;
     class A,B,C,D,E,F,G,H stage;
 ```
 
-> **Automated Pipeline Highlights:**
-> 1. **Zero Secret Leakage:** GitLeaks prevents accidental credential exposure at commit time.
-> 2. **Policy-as-Code:** Checkov and Trivy validate IaC configurations against CIS and NIST baselines before review.
-> 3. **FinOps Visibility:** Infracost posts automated monthly cost impact diffs directly into the Pull Request.
-> 4. **State Integrity:** Remote Terraform state is secured in private Blob storage with blob lease locking and OIDC authentication.
-> 5. **Nightly Drift Detection:** Scheduled cron pipelines identify unauthorized manual console modifications instantly.
+---
+
+## 🏛️ Proven Enterprise Architectural Solutions
+
+### 1. Enterprise Hub-and-Spoke Network Architecture
+* **Hybrid Connectivity:** High-availability ExpressRoute with redundant Site-to-Site (S2S) VPN failover.
+* **Central Traffic Inspection:** User Defined Routes (UDRs) funneling `0.0.0.0/0` and all inter-spoke traffic through Azure Firewall Premium with deep TLS inspection and IDPS.
+* **100% Private PaaS Services:** Zero public IP exposure. All data services (Key Vault, Storage Accounts, SQL Databases) communicate strictly via Azure Private Endpoints and Central Private DNS Zones.
+* **Micro-Segmentation:** Granular NSGs and Application Security Groups (ASGs) preventing lateral network traversal.
+
+### 2. 100+ Enterprise Workload Migration Framework
+* **Discovery & TCO Assessment:** Automated inventory, dependency mapping, and 7 R's strategy using Azure Migrate.
+* **Landing Zone Provisioning:** Automated deployment of CAF-compliant Landing Zones with subscription isolation (`Platform`, `Corp`, `Online`, `Dev`, `UAT`, `Prod`).
+* **Zero-Downtime Cutover:** Staged data replication, low-TTL DNS failover during maintenance windows, and automated smoke testing.
+* **Hypercare:** 24x7 War Room telemetry monitoring and operational runbook handoff.
+
+### 3. Enterprise FinOps & Cost Engineering
+* **Automated Waste Elimination:** Serverless cleanup routines purging unattached managed disks, obsolete snapshots, and idle public IPs.
+* **Non-Prod Auto-Shutdown:** Scheduled automation powering off Dev and UAT environments outside business hours, saving ~65% on non-prod compute.
+* **Commitment Architecture:** Structured mix of 1-Year and 3-Year Reserved Instances (RIs) and Azure Savings Plans covering steady-state baselines.
+* **Log Ingestion Tuning:** Configured Data Collection Rules (DCR) in Azure Monitor to suppress noisy audit logs, cutting ingestion bills by 30%+.
 
 ---
 
-## 🏛️ Signature Architectural Blueprints
+## 💡 The Core Engineering Tenets
 
-<details open>
-<summary><b>1. Enterprise Hub-and-Spoke Network with Zero-Trust Isolation</b></summary>
-<br/>
-
-* **Hybrid Connectivity:** High-speed ExpressRoute with redundant S2S VPN failover linking on-prem to Azure Hub.
-* **Central Traffic Inspection:** User Defined Routes (UDRs) funneling all inter-spoke and egress traffic (`0.0.0.0/0`) through Azure Firewall Premium with TLS inspection and IDPS.
-* **100% Private PaaS:** Zero public IP exposure. All data services (Azure Key Vault, Storage Accounts, SQL Databases) communicate strictly via **Azure Private Endpoints** and central **Private DNS Zones**.
-* **Micro-Segmentation:** Network Security Groups (NSGs) and Application Security Groups (ASGs) preventing lateral movement across subnets.
-
-</details>
-
-<details open>
-<summary><b>2. 100+ Enterprise Workload Cloud Migration Framework</b></summary>
-<br/>
-
-* **Discovery & Sizing:** Automated inventory, dependency mapping, and 7 R's classification using Azure Migrate.
-* **Landing Zone Foundation:** Automated provisioning of CAF-compliant Landing Zones with subscription isolation (`Corp`, `Online`, `Dev`, `UAT`, `Prod`).
-* **Cutover with Zero Downtime:** Continuous database replication, low-TTL DNS cutover during maintenance windows, and automated smoke test validation.
-* **Hypercare:** Dedicated 24x7 War Room telemetry monitoring and operational runbook handoff.
-
-</details>
-
-<details open>
-<summary><b>3. Enterprise FinOps & Cloud Economics Playbook</b></summary>
-<br/>
-
-* **Waste Eradication:** Automated serverless routines deleting unattached managed disks, obsolete snapshots, and unassociated public IPs.
-* **Non-Prod Auto-Shutdown:** Scheduled start/stop routines for Dev and UAT workloads, reducing non-prod compute spend by ~65%.
-* **Commitment Structuring:** Balancing on-demand capacity with 1-Year / 3-Year Reserved Instances (RIs) and Azure Savings Plans.
-* **Log Ingestion Tuning:** Configuring Data Collection Rules (DCR) to suppress noisy audit logs, saving 30%+ on Log Analytics storage.
-
-</details>
-
----
-
-## 💡 Core Engineering Principles
-
-```
-  [ Shift-Left by Default ]      Catch security and cost anomalies in code, never in production.
-  [ Immutable Infrastructure ]   Never patch running instances; rebuild and redeploy through IaC.
-  [ Blast Radius Isolation ]     Strict subscription and network boundaries to prevent cascading failures.
-  [ FinOps as a Priority ]       Every architecture decision must justify its cloud spend and ROI.
-```
+* **Shift-Left Security:** Security is never an afterthought; catch secrets and misconfigurations in code, not during a production breach.
+* **Immutable Infrastructure:** Never patch running servers; tear down and redeploy through version-controlled IaC.
+* **Blast Radius Containment:** Isolate environments by subscription and network boundaries to prevent cascading failures.
+* **FinOps by Design:** Every architecture decision must justify its cloud spend and deliver measurable business ROI.
 
 ---
 
@@ -168,9 +142,9 @@ flowchart LR
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect & Collaborate
 
-Whether it's discussing enterprise cloud migrations, zero-trust architectures, or DevSecOps transformation:
+Whether you're planning large-scale cloud migrations, designing zero-trust landing zones, or automating DevSecOps pipelines:
 
 <div align="center">
 
@@ -189,8 +163,8 @@ Whether it's discussing enterprise cloud migrations, zero-trust architectures, o
 <br/><br/>
 
 ```
-[SYSTEM STATUS] :: 99.99% UPTIME | ZERO-TRUST ENFORCED | FINOPS OPTIMIZED
-"Security and resilience are not features; they are foundational code."
+[SYSTEM STATUS] :: 99.99% PRODUCTION SLA | ZERO-TRUST ENFORCED | FINOPS OPTIMIZED
+"Resilience and security are not features—they are foundational code."
 ```
 
 </div>
